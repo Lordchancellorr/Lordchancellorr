@@ -2,7 +2,12 @@
 
 
 
-<!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pharmow)](https://github.com/Pharmow/github-profile-trophy)
+
+![554652](https://user-images.githubusercontent.com/126022065/223361452-06f8f6d2-b083-4835-b654-bc5c9c7473e4.png)
+
+
+![DEVOPS](https://user-images.githubusercontent.com/126022065/224186231-b3047c77-bba9-492f-9956-c7f75e7b8ff0.gif)
 
 <hr>
 <h1>I am Lordchancellor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
@@ -60,7 +65,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Appl
 
 
 
-<!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
+ ![devOps-cloud-native](https://user-images.githubusercontent.com/126022065/223065942-56301e09-e88e-451f-b691-435e3daec3a6.gif)
 
 <hr>
 <h1>I am Lordchancellor<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
