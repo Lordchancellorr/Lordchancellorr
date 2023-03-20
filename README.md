@@ -1,7 +1,6 @@
-### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️🌥️🌦️☁️⛅🌨️🌧️☁️⛅🌨️🌧️⛅🌨️⛅🌥️🌦️🌦️🌥️🌨️🌧️☁️🌥️🌦️🌥️🌦️☁️🌧️🌨️⛅🌨️🌧️☁️🌦️🌥️🌧️☁️🌨️⛅🌥️☁️🌧️🌨️[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=25&pause=200&color=007ba7&lines=Hi+there..!+%F0%9F%96%90+I'm+Lordchancellorr,+;Welcome+to+My+GitHub+page...)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=25&pause=200&color=007ba7&lines=Hi+there..!+%F0%9F%96%90+I'm+Lordchancellorr,+;Welcome+to+My+GitHub+page...)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="280" />
-
+### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️🌥️🌦️☁️⛅🌨️🌧️☁️⛅🌨️🌧️⛅🌨️⛅🌥️🌦️🌦️🌥️🌨️🌧️☁️🌥️🌦️🌥️🌦️☁️🌧️🌨️⛅🌨️🌧️☁️🌦️🌥️🌧️☁️🌨️⛅🌥️☁️🌧️🌨️ </br> Hi there, Cloud/DevOps Engineer here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
 ![DEVOPS](https://user-images.githubusercontent.com/126022065/224186231-b3047c77-bba9-492f-9956-c7f75e7b8ff0.gif)
