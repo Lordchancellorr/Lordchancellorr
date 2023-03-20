@@ -12,11 +12,8 @@
 ![Animation-1](https://user-images.githubusercontent.com/126022065/223205902-349ed1d1-24f3-4886-a8a2-50250ba1ca63.gif)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pharmow)](https://github.com/Pharmow/github-profile-trophy)
-
-
 <hr>
-<h1>I am Lordchancellor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1>I am Lordchancellorr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Applicalication Development, Infrastructure Automation.
 
 
