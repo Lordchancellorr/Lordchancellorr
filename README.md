@@ -83,16 +83,13 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Appl
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Lordchancellorr}/count.svg)
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lordchancellorr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lordchancellorr&bg_color=0D1117)  
-
-![GitHub metrics](https://metrics.lecoq.io/Lordchancelorr)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lordchancellorr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 ### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️🌥️🌦️☁️⛅🌨️🌧️☁️⛅🌨️🌧️⛅🌨️⛅🌥️🌦️🌦️🌥️🌨️🌧️☁️🌥️🌦️🌥️🌦️☁️🌧️🌨️⛅🌨️🌧️☁️🌦️🌥️🌧️☁️🌨️⛅🌥️☁️🌧️🌨️ </br> Hi there, Cloud Engineer here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
-## I hope you have an amazing DevOps Journey[smile]
+## I hope you have an amazing DevOps Journey 🤝
  ![devOps-cloud-native](https://user-images.githubusercontent.com/126022065/223065942-56301e09-e88e-451f-b691-435e3daec3a6.gif)
 
 <hr>
