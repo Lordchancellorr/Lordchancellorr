@@ -1,11 +1,12 @@
-### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️🌥️🌦️☁️⛅🌨️🌧️☁️⛅🌨️🌧️⛅🌨️⛅🌥️🌦️🌦️🌥️🌨️🌧️☁️🌥️🌦️🌥️🌦️☁️🌧️🌨️⛅🌨️🌧️☁️🌦️🌥️🌧️☁️🌨️⛅🌥️☁️🌧️🌨️ </br> Hi there, Professional Cloud Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️🌥️🌦️☁️⛅🌨️🌧️☁️⛅🌨️🌧️⛅🌨️⛅🌥️🌦️🌦️🌥️🌨️🌧️☁️🌥️🌦️🌥️🌦️☁️🌧️🌨️⛅🌨️🌧️☁️🌦️🌥️🌧️☁️🌨️⛅🌥️☁️🌧️🌨️ </br> Hi there, Professional DevOps/Cloud Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+
+
+![DEVOPS](https://user-images.githubusercontent.com/126022065/224186231-b3047c77-bba9-492f-9956-c7f75e7b8ff0.gif)
 
 ![554652](https://user-images.githubusercontent.com/126022065/223361452-06f8f6d2-b083-4835-b654-bc5c9c7473e4.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pharmow)](https://github.com/Pharmow/github-profile-trophy)
 
-
-![DEVOPS](https://user-images.githubusercontent.com/126022065/224186231-b3047c77-bba9-492f-9956-c7f75e7b8ff0.gif)
 
 <hr>
 <h1>I am Lordchancellor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
