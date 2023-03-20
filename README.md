@@ -51,7 +51,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Appl
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Lordchancellorr}/count.svg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=&bg_color=0D1117)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lordchancellorr&bg_color=0D1117)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Lordchancelorr)  
 
@@ -63,15 +63,15 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Appl
 <!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
 
 <hr>
-<h1>I am Micah Shallom Bawa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
+<h1>I am Lordchancellor<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps, Web Application Development and Infrastructure Automation.
 
 
 
 - 🌱 I’m currently learning: DevOps
-- 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
+- 👯 I’m looking to collaborate on: DevOps, Web Application and Cloud Engineering.
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love good to sing
+- ⚡ Fun fact: I love to sing
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
 
 
@@ -101,8 +101,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 <p align="center">
   <a href="https://twitter.com/Lordchancellorr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
- 
-  <a href="https://www.linkedin.com/in/olatunde-temidayo-4267991a1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+ <a href="https://www.linkedin.com/in/olatunde-temidayo-4267991a1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="olatundeolamide03@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
