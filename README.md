@@ -92,7 +92,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Appl
 ### ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️🌤️🌥️🌦️🌤️🌨️🌧️☁️🌧️🌨️🌤️🌥️🌦️☁️⛅🌨️🌧️☁️⛅🌨️🌧️⛅🌨️⛅🌥️🌦️🌦️🌥️🌨️🌧️☁️🌥️🌦️🌥️🌦️☁️🌧️🌨️⛅🌨️🌧️☁️🌦️🌥️🌧️☁️🌨️⛅🌥️☁️🌧️🌨️ </br> Hi there, Cloud Engineer here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
-## I hope yoo have an amazing DevOps Journey!!!
+## I hope you have an amazing DevOps Journey[smile]
  ![devOps-cloud-native](https://user-images.githubusercontent.com/126022065/223065942-56301e09-e88e-451f-b691-435e3daec3a6.gif)
 
 <hr>
