@@ -144,11 +144,6 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps, Web Appl
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lordchancellorr&bg_color=0D1117)  
 
-![GitHub metrics](https://metrics.lecoq.io/Lordchancellorr)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
-  
-
 
 <!---
 Lordchancellorr/Lordchancellorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
