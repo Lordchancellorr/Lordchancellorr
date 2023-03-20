@@ -22,11 +22,19 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, Web and App Appl
 
 
 
-- 🌱 I’m currently learning: Kubernetes
-- 👯 I’m looking to collaborate on: DevOps, Web/App and Cloud Engineering.
-- 😊 Pronouns: he/him
-- ⚡ Fun fact: I love good music 🎧🎧.”
-<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="280" />
+
+
+<br>
+<br/>
+- 👋 Hi, I’m @Lordchancellorr,<br><br/>
+- ✨ I'm aspiring Devops Engineer,<br><br/>
+- 👀 I’m interested in Devops & Cloud Tecnologies,<br><br/>
+- 🌱 I’m currently learning Devops tools like Kubernetes, Docker,<br><br/>
+- 💞️ I’m looking to collaborate on DevOps projects,<br><br/>
+
+<br>
+<br />
 
 
 ## 🔧Technologies and Tools
