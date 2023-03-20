@@ -146,7 +146,8 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps, Web Appl
 
 ![GitHub metrics](https://metrics.lecoq.io/Lordchancellorr)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lordchanccellorr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lordchancellorr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+  
 
 
 <!---
